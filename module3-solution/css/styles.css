@@ -1,0 +1,78 @@
+body {
+	font-size: 16px;
+}
+
+.container-fluid {
+	margin-left: 0;
+}
+
+#header-nav {
+	background-color: #EECBFF;
+	border: 1px solid #7002fd;
+	border-radius: 0;
+}
+
+.navbar-brand h1 {
+	font-size: 1.2em;
+	color: #7002fd;
+ 	margin-top: 0;
+  	margin-bottom: 0;
+  	margin-left: 0;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #7002fd;
+}
+
+#collapsable-nav a {
+    font-size: 1.2em;
+}
+
+#nav-list a {
+  	color: #7002fd;
+  	text-align: center;
+}
+
+#nav-list a:hover {
+	background-color: white;
+}
+
+#nav-list.visible-xs {
+	background-color: #d0f0c0;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+hr.visible-xs {
+	margin: 0;
+	border-color: #7002fd;
+}
+
+#main-content h1 {
+	font-size: 1.8em;
+	margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+#main-content.container {
+	width: 100%;
+}
+
+.section {
+	background-color: #c2e6ec;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+.section h2 {
+	text-align: center;
+	font-size: 1.2em;
+	margin-top: 10px;
+	padding-top: 10px;
+}
+
+.section p {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
